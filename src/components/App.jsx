@@ -106,7 +106,7 @@ class App extends Component {
             onClick={this.handleModalOpenClose}
           />
         </ImageGallery>
-        {isLoading && <Loader type="spin" color="#3f51b5" />}
+        {/* {isLoading && <Loader type="spin" color="#3f51b5" />} */}
         <Button
           pictures={pictures}
           onClick={this.handleLoadMore}
