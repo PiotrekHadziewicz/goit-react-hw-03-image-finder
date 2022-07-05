@@ -6,7 +6,7 @@ import { ImageGalleryItem } from 'components/ImageGalleryItem';
 import { finderInstance } from 'api/client';
 import { Button } from 'components/Button';
 import { Modal } from 'components/Modal';
-import { Loader } from 'components/Loader';
+// import { Loader } from 'components/Loader';
 
 
 class App extends Component {
